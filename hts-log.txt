@@ -1,0 +1,157 @@
+HTTrack3.49-2+htsswf+htsjava launched on Mon, 03 Apr 2023 16:23:54 at http://localhost/bsu-open%20university/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qYC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" -Y http://localhost/bsu-open%20university/ -O1 "C:\My Web Sites\BSU-Open University" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+16:27:01	Error: 	"Not Found" (404) at link fonts.googleapis.com/ (from localhost/bsu-open university/)
+16:27:02	Error: 	"Forbidden" (403) at link use.fontawesome.com/ (from localhost/bsu-open university/)
+16:27:02	Error: 	"Bad Request" (400) at link localhost/bsu-open university/wp-admin/admin-ajax.php (from localhost/bsu-open university/)
+16:30:50	Error: 	"Bad Request" (400) at link localhost/bsu-open university/index.php/wp-json/tribe/views/v2/html (from localhost/bsu-open university/)
+16:31:02	Error: 	"Not Found" (404) at link localhost/bsu-open university/events/ (from localhost/bsu-open university/)
+16:31:37	Error: 	"Not Found" (404) at link localhost/bsu-open university/wp-content/plugins/blog-designer/public/images/glyphicons-halflings.png (from localhost/bsu-open university/wp-content/plugins/blog-designer/public/css/designer_css.css?ver=1.0)
+16:31:37	Error: 	"Not Found" (404) at link localhost/bsu-open university/wp-content/plugins/blog-designer/public/images/navigation4.png (from localhost/bsu-open university/wp-content/plugins/blog-designer/public/css/designer_css.css?ver=1.0)
+16:31:37	Warning: 	File not parsed, looks like binary: localhost/bsu-open university/wp-content/themes/blogwaves/assets/fonts/fontawesome-webfont3e6e.html?v=4.7.0
+16:31:37	Warning: 	Warning: store application/octet-stream without scan: C:/My Web Sites/BSU-Open University/localhost/bsu-open university/wp-content/themes/blogwaves/assets/fonts/fontawesome-webfont3e6e3e6e.html
+16:31:38	Warning: 	Moved Permanently for localhost/bsu-open university/?p=12
+16:31:38	Warning: 	File has moved from localhost/bsu-open university/?p=12 to http://localhost/bsu-open%20university/index.php/about/
+16:31:38	Error: 	"Not Found" (404) at link localhost/BSU-Open University/?page_id=3 (from localhost/bsu-open university/index.php/about/)
+16:31:38	Warning: 	Moved Permanently for localhost/bsu-open university/?p=44
+16:31:38	Warning: 	File has moved from localhost/bsu-open university/?p=44 to http://localhost/bsu-open%20university/index.php/contact-us/
+16:31:38	Warning: 	Moved Permanently for localhost/bsu-open university/?p=243
+16:31:38	Warning: 	File has moved from localhost/bsu-open university/?p=243 to http://localhost/bsu-open%20university/index.php/downloads/
+16:31:38	Warning: 	Moved Permanently for localhost/bsu-open university/?p=323
+16:31:38	Warning: 	File has moved from localhost/bsu-open university/?p=323 to http://localhost/bsu-open%20university/index.php/lms-portal/
+16:31:38	Warning: 	Moved Permanently for localhost/bsu-open university/?p=15
+16:31:38	Warning: 	File has moved from localhost/bsu-open university/?p=15 to http://localhost/bsu-open%20university/index.php/home__trashed/programs-offered/
+16:31:38	Warning: 	Moved Permanently for localhost/BSU-Open University/?page_id=272
+16:31:38	Warning: 	File has moved from localhost/BSU-Open University/?page_id=272 to http://localhost/bsu-open%20university/index.php/home__trashed/programs-offered/master-in-community-development/
+16:31:38	Warning: 	Moved Permanently for localhost/BSU-Open University/index.php/programs-offered/master-in-community-health-development/
+16:31:38	Warning: 	File has moved from localhost/BSU-Open University/index.php/programs-offered/master-in-community-health-development/ to http://localhost/bsu-open%20university/index.php/home__trashed/programs-offered/master-in-community-health-development/
+16:31:38	Warning: 	Moved Permanently for localhost/BSU-Open University/index.php/programs-offered/master-in-cooperative-management/
+16:31:38	Warning: 	File has moved from localhost/BSU-Open University/index.php/programs-offered/master-in-cooperative-management/ to http://localhost/bsu-open%20university/index.php/home__trashed/programs-offered/master-in-cooperative-management/
+16:31:38	Warning: 	Moved Permanently for localhost/BSU-Open University/index.php/programs-offered/master-in-development-communication/
+16:31:38	Warning: 	File has moved from localhost/BSU-Open University/index.php/programs-offered/master-in-development-communication/ to http://localhost/bsu-open%20university/index.php/home__trashed/programs-offered/master-in-development-communication/
+16:31:49	Warning: 	Moved Permanently for localhost/BSU-Open University/index.php/programs-offered/master-in-human-resource-management/
+16:31:49	Warning: 	File has moved from localhost/BSU-Open University/index.php/programs-offered/master-in-human-resource-management/ to http://localhost/bsu-open%20university/index.php/home__trashed/programs-offered/master-in-human-resource-management/
+16:31:49	Warning: 	Moved Permanently for localhost/BSU-Open University/index.php/home/programs-offered/master-in-urban-management/
+16:31:49	Warning: 	File has moved from localhost/BSU-Open University/index.php/home/programs-offered/master-in-urban-management/ to http://localhost/bsu-open%20university/index.php/home__trashed/programs-offered/master-in-urban-management/
+16:31:49	Warning: 	Moved Permanently for localhost/BSU-Open University/index.php/programs-offered/master-in-non-formal-education/
+16:31:49	Warning: 	File has moved from localhost/BSU-Open University/index.php/programs-offered/master-in-non-formal-education/ to http://localhost/bsu-open%20university/index.php/home__trashed/programs-offered/master-in-non-formal-education/
+16:31:49	Warning: 	Moved Permanently for localhost/BSU-Open University/index.php/programs-offered/diploma-in-training-management/
+16:31:49	Warning: 	File has moved from localhost/BSU-Open University/index.php/programs-offered/diploma-in-training-management/ to http://localhost/bsu-open%20university/index.php/home__trashed/programs-offered/diploma-in-training-management/
+16:32:01	Warning: 	Moved Permanently for localhost/BSU-Open University/index.php/programs-offered/certificate-of-organic-agriculture/
+16:32:01	Warning: 	File has moved from localhost/BSU-Open University/index.php/programs-offered/certificate-of-organic-agriculture/ to http://localhost/bsu-open%20university/index.php/home__trashed/programs-offered/certificate-of-organic-agriculture/
+16:32:01	Warning: 	Moved Permanently for localhost/bsu-open university/?p=22
+16:32:01	Warning: 	File has moved from localhost/bsu-open university/?p=22 to http://localhost/bsu-open%20university/index.php/admission-requirements/
+16:32:01	Warning: 	Moved Permanently for localhost/bsu-open university/?p=37
+16:32:01	Warning: 	File has moved from localhost/bsu-open university/?p=37 to http://localhost/bsu-open%20university/index.php/fees/
+16:32:02	Error: 	"Not Found" (404) at link localhost/bsu-open university/events/list/ (from localhost/bsu-open university/index.php/events/)
+16:32:02	Error: 	"Not Found" (404) at link localhost/bsu-open university/events/month/ (from localhost/bsu-open university/index.php/events/)
+16:32:02	Error: 	"Not Found" (404) at link localhost/bsu-open university/events/today/ (from localhost/bsu-open university/index.php/events/)
+16:32:02	Error: 	"Not Found" (404) at link localhost/bsu-open university/events/month/2023-03/ (from localhost/bsu-open university/index.php/events/)
+16:32:02	Error: 	"Not Found" (404) at link localhost/bsu-open university/events/month/2023-05/ (from localhost/bsu-open university/index.php/events/)
+16:32:02	Error: 	"Not Found" (404) at link localhost/bsu-open university/events/month/?pagename=events (from localhost/bsu-open university/index.php/events/)
+16:32:02	Error: 	"Not Found" (404) at link localhost/bsu-open university/events/2023-03-29/ (from localhost/bsu-open university/index.php/events/)
+16:32:02	Error: 	"Not Found" (404) at link localhost/bsu-open university/events/2023-03-30/ (from localhost/bsu-open university/index.php/events/)
+16:32:02	Error: 	"Not Found" (404) at link localhost/bsu-open university/events/2023-03-31/ (from localhost/bsu-open university/index.php/events/)
+16:32:02	Error: 	"Not Found" (404) at link localhost/bsu-open university/events/2023-04-01/ (from localhost/bsu-open university/index.php/events/)
+16:32:02	Error: 	"Not Found" (404) at link localhost/bsu-open university/events/2023-04-02/ (from localhost/bsu-open university/index.php/events/)
+16:32:02	Error: 	"Not Found" (404) at link localhost/bsu-open university/events/2023-04-03/ (from localhost/bsu-open university/index.php/events/)
+16:32:02	Error: 	"Not Found" (404) at link localhost/bsu-open university/events/2023-04-04/ (from localhost/bsu-open university/index.php/events/)
+16:32:02	Error: 	"Not Found" (404) at link localhost/bsu-open university/events/2023-04-05/ (from localhost/bsu-open university/index.php/events/)
+16:32:02	Error: 	"Not Found" (404) at link localhost/bsu-open university/events/2023-04-06/ (from localhost/bsu-open university/index.php/events/)
+16:32:02	Error: 	"Not Found" (404) at link localhost/bsu-open university/events/2023-04-07/ (from localhost/bsu-open university/index.php/events/)
+16:32:02	Error: 	"Not Found" (404) at link localhost/bsu-open university/events/2023-04-08/ (from localhost/bsu-open university/index.php/events/)
+16:32:02	Error: 	"Not Found" (404) at link localhost/bsu-open university/events/2023-04-09/ (from localhost/bsu-open university/index.php/events/)
+16:32:02	Error: 	"Not Found" (404) at link localhost/bsu-open university/events/2023-04-10/ (from localhost/bsu-open university/index.php/events/)
+16:32:02	Error: 	"Not Found" (404) at link localhost/bsu-open university/events/2023-04-11/ (from localhost/bsu-open university/index.php/events/)
+16:32:02	Error: 	"Not Found" (404) at link localhost/bsu-open university/events/2023-04-12/ (from localhost/bsu-open university/index.php/events/)
+16:32:02	Error: 	"Not Found" (404) at link localhost/bsu-open university/events/2023-04-13/ (from localhost/bsu-open university/index.php/events/)
+16:32:02	Error: 	"Not Found" (404) at link localhost/bsu-open university/events/2023-04-14/ (from localhost/bsu-open university/index.php/events/)
+16:32:02	Error: 	"Not Found" (404) at link localhost/bsu-open university/events/2023-04-15/ (from localhost/bsu-open university/index.php/events/)
+16:32:02	Error: 	"Not Found" (404) at link localhost/bsu-open university/events/2023-04-16/ (from localhost/bsu-open university/index.php/events/)
+16:32:02	Error: 	"Not Found" (404) at link localhost/bsu-open university/events/2023-04-17/ (from localhost/bsu-open university/index.php/events/)
+16:32:02	Error: 	"Not Found" (404) at link localhost/bsu-open university/events/2023-04-18/ (from localhost/bsu-open university/index.php/events/)
+16:32:02	Error: 	"Not Found" (404) at link localhost/bsu-open university/events/2023-04-19/ (from localhost/bsu-open university/index.php/events/)
+16:32:02	Error: 	"Not Found" (404) at link localhost/bsu-open university/events/2023-04-20/ (from localhost/bsu-open university/index.php/events/)
+16:32:02	Error: 	"Not Found" (404) at link localhost/bsu-open university/events/2023-04-21/ (from localhost/bsu-open university/index.php/events/)
+16:32:02	Error: 	"Not Found" (404) at link localhost/bsu-open university/events/2023-04-22/ (from localhost/bsu-open university/index.php/events/)
+16:32:02	Error: 	"Not Found" (404) at link localhost/bsu-open university/events/2023-04-23/ (from localhost/bsu-open university/index.php/events/)
+16:32:02	Error: 	"Not Found" (404) at link localhost/bsu-open university/events/2023-04-24/ (from localhost/bsu-open university/index.php/events/)
+16:32:02	Error: 	"Not Found" (404) at link localhost/bsu-open university/events/2023-04-25/ (from localhost/bsu-open university/index.php/events/)
+16:32:02	Error: 	"Not Found" (404) at link localhost/bsu-open university/events/2023-04-26/ (from localhost/bsu-open university/index.php/events/)
+16:32:02	Error: 	"Not Found" (404) at link localhost/bsu-open university/events/2023-04-27/ (from localhost/bsu-open university/index.php/events/)
+16:32:02	Error: 	"Not Found" (404) at link localhost/bsu-open university/events/2023-04-28/ (from localhost/bsu-open university/index.php/events/)
+16:32:02	Error: 	"Not Found" (404) at link localhost/bsu-open university/events/2023-04-29/ (from localhost/bsu-open university/index.php/events/)
+16:32:02	Error: 	"Not Found" (404) at link localhost/bsu-open university/events/2023-04-30/ (from localhost/bsu-open university/index.php/events/)
+16:32:02	Error: 	"Not Found" (404) at link localhost/bsu-open university/events/month/?ical=1 (from localhost/bsu-open university/index.php/events/)
+16:32:02	Error: 	"Not Found" (404) at link localhost/bsu-open university/events/month/?outlook-ical=1 (from localhost/bsu-open university/index.php/events/)
+16:32:02	Warning: 	Moved Permanently for localhost/bsu-open university/?p=803
+16:32:02	Warning: 	File has moved from localhost/bsu-open university/?p=803 to http://localhost/bsu-open%20university/index.php/submission/
+16:32:02	Warning: 	Moved Permanently for localhost/bsu-open university/?p=810
+16:32:02	Warning: 	File has moved from localhost/bsu-open university/?p=810 to http://localhost/bsu-open%20university/index.php/application-status/
+16:32:02	Warning: 	Moved Permanently for localhost/bsu-open university/?p=1196
+16:32:02	Warning: 	File has moved from localhost/bsu-open university/?p=1196 to http://localhost/bsu-open%20university/index.php/2023/04/03/why-bsu-ou/
+16:32:02	Warning: 	Moved Permanently for localhost/bsu-open university/?p=576
+16:32:02	Warning: 	File has moved from localhost/bsu-open university/?p=576 to http://localhost/bsu-open%20university/index.php/2023/03/21/mou-signing-maejo-university/
+16:34:48	Warning: 	Moved Permanently for localhost/bsu-open university/?p=827
+16:34:48	Warning: 	File has moved from localhost/bsu-open university/?p=827 to http://localhost/bsu-open%20university/index.php/event/bsu-freshmen-orientation/
+16:34:49	Warning: 	Moved Permanently for localhost/bsu-open university/?p=1211
+16:34:49	Warning: 	File has moved from localhost/bsu-open university/?p=1211 to http://localhost/bsu-open%20university/index.php/event/1211/
+16:34:49	Error: 	"Not Found" (404) at link localhost/bsu-open university/events/tag/1st-semester/ (from localhost/bsu-open university/index.php/event/1211/)
+16:34:49	Error: 	"Not Found" (404) at link localhost/bsu-open university/events/tag/2023/ (from localhost/bsu-open university/index.php/event/1211/)
+16:34:49	Error: 	"Not Found" (404) at link localhost/bsu-open university/events/tag/admission/ (from localhost/bsu-open university/index.php/event/1211/)
+16:34:49	Error: 	"Not Found" (404) at link localhost/bsu-open university/events/tag/deadline/ (from localhost/bsu-open university/index.php/event/1211/)
+16:34:50	Warning: 	Moved Permanently for localhost/bsu-open university/?p=765
+16:34:50	Warning: 	File has moved from localhost/bsu-open university/?p=765 to http://localhost/bsu-open%20university/index.php/privacy-policy/
+16:34:50	Error: 	"Method Not Allowed" (405) at link localhost/bsu-open university/xmlrpc.php (from localhost/bsu-open university/index.php/privacy-policy/)
+16:34:50	Error: 	"Forbidden" (403) at link localhost/bsu-open university/chrome-extension:// (from https://connect.facebook.net/en_US/sdk/xfbml.customerchat.js)
+16:34:50	Error: 	"Forbidden" (403) at link localhost/bsu-open university/^([^:/? (from https://connect.facebook.net/en_US/sdk/xfbml.customerchat.js)
+16:34:50	Error: 	"Not Found" (404) at link localhost/bsu-open university/ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/ (from https://connect.facebook.net/en_US/sdk/xfbml.customerchat.js)
+16:34:50	Error: 	"Not Found" (404) at link localhost/bsu-open university/GET (from https://connect.facebook.net/en_US/sdk/xfbml.customerchat.js)
+16:34:50	Error: 	"Not Found" (404) at link localhost/bsu-open university/dialog/ (from https://connect.facebook.net/en_US/sdk/xfbml.customerchat.js)
+16:34:50	Error: 	"Not Found" (404) at link localhost/bsu-open university/LiveChatEvent/ (from https://connect.facebook.net/en_US/sdk/xfbml.customerchat.js)
+16:36:37	Warning: 	Moved Permanently for localhost/bsu-open university/?p=571
+16:36:37	Warning: 	File has moved from localhost/bsu-open university/?p=571 to http://localhost/bsu-open%20university/index.php/2023/03/21/master-in-urban-management/
+16:36:37	Warning: 	Moved Permanently for localhost/bsu-open university/?p=569
+16:36:37	Warning: 	File has moved from localhost/bsu-open university/?p=569 to http://localhost/bsu-open%20university/index.php/2023/03/21/master-in-non-formal-education/
+16:37:41	Warning: 	Moved Permanently for localhost/bsu-open university/?p=565
+16:37:41	Warning: 	File has moved from localhost/bsu-open university/?p=565 to http://localhost/bsu-open%20university/index.php/2023/03/21/master-in-human-resource-management/
+16:37:42	Error: 	"Not Found" (404) at link localhost/bsu-open university/wp-content/uploads/2023/03/MHRM1-1-1-1024x670.jpg (from localhost/bsu-open university/index.php/2023/03/21/master-in-human-resource-management/)
+16:37:42	Warning: 	Moved Permanently for localhost/bsu-open university/?p=562
+16:37:42	Warning: 	File has moved from localhost/bsu-open university/?p=562 to http://localhost/bsu-open%20university/index.php/2023/03/21/master-in-development-communication/
+16:37:42	Warning: 	Moved Permanently for localhost/bsu-open university/?p=539
+16:37:42	Warning: 	File has moved from localhost/bsu-open university/?p=539 to http://localhost/bsu-open%20university/index.php/2023/03/21/master-in-cooperative-management/
+16:37:42	Warning: 	Moved Permanently for localhost/bsu-open university/?p=555
+16:37:42	Warning: 	File has moved from localhost/bsu-open university/?p=555 to http://localhost/bsu-open%20university/index.php/2023/03/16/open-university-class-schedule-s-y-2022-2023/
+16:37:42	Warning: 	Retry after error -5 (Unable to get server's address: No such host is known. ) at link junk.metafilter.com/xfn.gif (from https://gmpg.org/xfn/more)
+16:37:42	Warning: 	Moved Permanently for localhost/bsu-open university/?p=272
+16:37:42	Warning: 	File has moved from localhost/bsu-open university/?p=272 to http://localhost/bsu-open%20university/index.php/home__trashed/programs-offered/master-in-community-development/
+16:37:42	Warning: 	Moved Permanently for localhost/bsu-open university/?p=276
+16:37:42	Warning: 	File has moved from localhost/bsu-open university/?p=276 to http://localhost/bsu-open%20university/index.php/home__trashed/programs-offered/master-in-community-health-development/
+16:37:42	Warning: 	Moved Permanently for localhost/bsu-open university/?p=278
+16:37:42	Warning: 	File has moved from localhost/bsu-open university/?p=278 to http://localhost/bsu-open%20university/index.php/home__trashed/programs-offered/master-in-cooperative-management/
+16:37:42	Warning: 	Moved Permanently for localhost/bsu-open university/?p=281
+16:37:42	Warning: 	File has moved from localhost/bsu-open university/?p=281 to http://localhost/bsu-open%20university/index.php/home__trashed/programs-offered/master-in-development-communication/
+16:37:42	Warning: 	Moved Permanently for localhost/bsu-open university/?p=284
+16:37:42	Warning: 	File has moved from localhost/bsu-open university/?p=284 to http://localhost/bsu-open%20university/index.php/home__trashed/programs-offered/master-in-human-resource-management/
+16:37:42	Warning: 	Moved Permanently for localhost/bsu-open university/?p=288
+16:37:42	Warning: 	File has moved from localhost/bsu-open university/?p=288 to http://localhost/bsu-open%20university/index.php/home__trashed/programs-offered/master-in-urban-management/
+16:37:42	Warning: 	Moved Permanently for localhost/bsu-open university/?p=286
+16:37:42	Warning: 	File has moved from localhost/bsu-open university/?p=286 to http://localhost/bsu-open%20university/index.php/home__trashed/programs-offered/master-in-non-formal-education/
+16:37:42	Warning: 	Moved Permanently for localhost/bsu-open university/?p=361
+16:37:42	Warning: 	File has moved from localhost/bsu-open university/?p=361 to http://localhost/bsu-open%20university/index.php/home__trashed/programs-offered/diploma-in-training-management/
+16:37:42	Warning: 	Moved Permanently for localhost/bsu-open university/?p=364
+16:37:42	Warning: 	File has moved from localhost/bsu-open university/?p=364 to http://localhost/bsu-open%20university/index.php/home__trashed/programs-offered/certificate-of-organic-agriculture/
+16:38:04	Warning: 	Moved Permanently for localhost/bsu-open university/?p=560
+16:38:04	Warning: 	File has moved from localhost/bsu-open university/?p=560 to http://localhost/bsu-open%20university/index.php/2023/03/21/master-in-community-development/
+16:38:33	Warning: 	Moved Permanently for localhost/bsu-open university/?p=552
+16:38:33	Warning: 	File has moved from localhost/bsu-open university/?p=552 to http://localhost/bsu-open%20university/index.php/2023/03/21/master-in-community-health-development/
+16:38:37	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link junk.metafilter.com/xfn.gif (from https://gmpg.org/xfn/more)
+16:38:37	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link junk.metafilter.com/xfn.gif (from https://gmpg.org/xfn/more)
+
+HTTrack Website Copier/3.49-2 mirror complete in 14 minutes 43 seconds : 467 links scanned, 357 files written (25893659 bytes overall) [25397612 bytes received at 28762 bytes/sec], 1327087 bytes transferred using HTTP compression in 39 files, ratio 37%, 3.1 requests per connection
+(62 errors, 84 warnings, 0 messages)
